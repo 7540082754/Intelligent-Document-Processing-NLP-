@@ -1,0 +1,9 @@
+pytesseract
+opencv-python
+Pillow
+spacy
+transformers
+scikit-learn
+fastapi
+uvicorn
+joblib
